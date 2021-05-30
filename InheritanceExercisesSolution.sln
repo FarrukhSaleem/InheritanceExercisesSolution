@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1525
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceExercisesApplication", "InheritanceExercisesApplication\InheritanceExercisesApplication.csproj", "{56A4F20F-D676-4991-A210-E62BD2C6490C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecosystem", "Ecosystem\Ecosystem.csproj", "{04EDB285-BE9A-4BAA-8EAE-819D165314C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{56A4F20F-D676-4991-A210-E62BD2C6490C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A4F20F-D676-4991-A210-E62BD2C6490C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A4F20F-D676-4991-A210-E62BD2C6490C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04EDB285-BE9A-4BAA-8EAE-819D165314C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EDB285-BE9A-4BAA-8EAE-819D165314C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EDB285-BE9A-4BAA-8EAE-819D165314C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EDB285-BE9A-4BAA-8EAE-819D165314C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
